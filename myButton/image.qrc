@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/pic">
+        <file>images/downButton.png</file>
+        <file>images/upButton.png</file>
+    </qresource>
+</RCC>
